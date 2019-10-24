@@ -3,9 +3,6 @@ package study.log;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.File;
-import java.io.IOException;
-
 /**
  * @author ：mmzs
  * @date ：Created in 2019/10/23 14:12
