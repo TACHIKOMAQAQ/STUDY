@@ -1,0 +1,3 @@
+com\controller\TestLogController.class
+com\annotion\BaOperationLog.class
+com\aspect\LogAspect.class

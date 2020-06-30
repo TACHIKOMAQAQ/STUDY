@@ -5,8 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../study-log/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-aspect/pom.xml" />
         <option value="$PROJECT_DIR$/../study-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-log/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../study-spring-cloud-eureka-server/pom.xml" />
       </list>
     </option>
   </component>
